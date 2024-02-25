@@ -37,6 +37,7 @@ located at http://SynEdit.SourceForge.net
 unit SynHighlighterECMAScript;
 
 {$I SynEdit.inc}
+{$HIGHCHARUNICODE ON}
 
 interface
 
